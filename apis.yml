@@ -14,7 +14,7 @@ image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/apogeoapi.
 name: ApogeoAPI
 description: "Bundled API for countries, states, cities, IP geolocation, and live exchange rates"
 url: https://apogeoapi.com
-specificationVersion: '0.20'
+specificationVersion: '0.23'
 created: '2026-05-28'
 modified: '2026-05-28'
 x-source: public-apis/public-apis
