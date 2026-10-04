@@ -39,7 +39,6 @@ apis:
   - name: ApogeoAPI
     description: "Bundled API for countries, states, cities, IP geolocation, and live exchange rates"
     humanURL: https://apogeoapi.com
-    baseURL: https://apogeoapi.com
     tags:
       - Geocoding
     properties:
